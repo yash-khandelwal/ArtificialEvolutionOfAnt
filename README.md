@@ -1,3 +1,3 @@
 # ArtificialEvolutionOfAnt
 ANT SIMULATION
-![hustlin_erd](Report and presentation/Major_project.pdf)
+[embed]https://github.com/yash-khandelwal/ArtificialEvolutionOfAnt/blob/master/Report%20and%20presentation/Major_project.pdf[/embed]
